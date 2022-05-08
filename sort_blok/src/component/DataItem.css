@@ -1,0 +1,21 @@
+.stage-1, .stage-2, .stage-3{
+    width: 250px;
+    
+    border: 1px solid black;
+    margin-left: 1rem;
+
+
+}
+
+.main-block {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    width: 70%;
+    border: 1px solid black;
+    margin: 1rem auto;
+    padding: 10px;
+}
